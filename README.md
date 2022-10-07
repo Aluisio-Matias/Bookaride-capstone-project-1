@@ -9,8 +9,8 @@ BOOKARIDE is a transportation booking website that allows users to reserve onlin
 - Users receive a text message confirming their booking has been created successfully using the [Twilio API].   
 - Allows users and admins to send booking email confirmations to any email using Python. 
 - Auto search for an address using the [Mapquest API]
-- User authentication.
-- Password hashing for secure password storage.
+- User authentication with bcrypt.
+- Password hashing with bcrypt for secure password storage.
 
 >[BOOKARIDE] app's goal is to make it easier for users and admins
 >to manage their bookings all in one place.
