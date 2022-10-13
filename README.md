@@ -29,7 +29,7 @@ BOOKARIDE uses multiple programming languages and a number of open source projec
 - [Jinja] to run code similar Python inside HTML
 - [Flask] for many backend utilities
 - [jQuery]
-- [SQlalchemy], the Python SQL toolkit and Object Relational Mapper.
+- [SQLAlchemy], the Python SQL toolkit and Object Relational Mapper.
 - [PostgreSQL] database management system.
 
 ---
