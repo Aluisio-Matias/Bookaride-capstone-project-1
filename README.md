@@ -1,6 +1,6 @@
 ![BOOKARIDE](https://user-images.githubusercontent.com/91992866/182531145-2ba03f22-5c8e-4c3f-8595-c9d98ce0adaf.png)
 ___
-BOOKARIDE is a transportation booking website that allows users to reserve online and admins (or the business owner) to keep track of all the reservations made by all users in the database. This is my Capstone Project One for Springboard's Software Engineering course. Here's a link to the project deployed: [BOOKARIDE]
+BOOKARIDE is a transportation booking website that allows users to reserve online and admins (or the business owner) to keep track of all the reservations made by all users in the database. This is my Capstone Project One for Springboard's Software Engineering career track. Here's a link to the fully deployed project: [BOOKARIDE]
 
 ## Features
 
